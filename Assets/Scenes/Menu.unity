@@ -262,7 +262,7 @@ GameObject:
   - component: {fileID: 93985401}
   - component: {fileID: 93985400}
   m_Layer: 0
-  m_Name: Black
+  m_Name: Black Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1015,7 +1015,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -10.9, y: -22.9}
+  m_AnchoredPosition: {x: -10.9, y: -24.2}
   m_SizeDelta: {x: 15, y: 15}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1138423093
@@ -1038,8 +1038,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: 1
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 55c5a4859e4cb4c49bac497a02ceab2f, type: 2}
+  m_sharedMaterial: {fileID: 21993655119880718, guid: 55c5a4859e4cb4c49bac497a02ceab2f,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1081,7 +1082,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -1417,7 +1418,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -353.72, y: -208.5}
+  m_AnchoredPosition: {x: -358.6, y: -208.5}
   m_SizeDelta: {x: 61, y: 10}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1697848100
@@ -1856,7 +1857,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 316.8, y: -208.25}
+  m_AnchoredPosition: {x: 315, y: -208.25}
   m_SizeDelta: {x: 148, y: 10}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2136781898
